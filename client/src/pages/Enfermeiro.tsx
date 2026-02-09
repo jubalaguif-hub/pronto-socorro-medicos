@@ -120,7 +120,7 @@ export default function Enfermeiro() {
                 <h1 className="text-2xl font-bold text-gray-800">
                   Quadro de Avisos
                 </h1>
-                <p className="text-sm text-gray-600">Escalas de Final de Semana</p>
+                <p className="text-sm text-gray-600">Alterações na escala.</p>
               </div>
             </div>
             <Button

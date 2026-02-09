@@ -165,9 +165,9 @@ export default defineConfig({
   root: path.resolve(import.meta.dirname, "client"),
   publicDir: path.resolve(import.meta.dirname, "client", "public"),
 build: {
-    outDir: "dist", // Sem o "../", pois agora o Root já é a pasta client
+    outDir: "dist", 
     emptyOutDir: true,
-  },
+},
   server: {
     host: true,
     allowedHosts: [

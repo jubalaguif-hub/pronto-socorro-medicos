@@ -74,7 +74,7 @@ export default function Login() {
                 className="h-20 object-contain drop-shadow-lg"
               />
             </div>
-            <h1 className="text-4xl font-bold text-gray-900 drop-shadow-md">Quadro de Avisos</h1>
+            <h1 className="text-4xl font-bold text-gray-900 drop-shadow-md">Quadro de Avisos Médicos</h1>
             <p className="text-gray-700 mt-2 font-medium drop-shadow-sm" style={{fontSize: '14px', fontWeight: '200'}}>Escala de Técnicos de Enfermagem</p>
           </div>
 

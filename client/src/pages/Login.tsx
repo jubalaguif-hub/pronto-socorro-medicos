@@ -126,7 +126,7 @@ export default function Login() {
 
           {/* Footer Info */}
           <p className="text-xs text-center text-gray-700 mt-8 font-medium drop-shadow-sm">
-            Enfermeiros: Acesso direto ao quadro de avisos do seu prédio.
+            Médicos: Acesso direto ao quadro de avisos do seu prédio.
           </p>
         </div>
       </div>

@@ -165,7 +165,7 @@ export default defineConfig({
   root: path.resolve(import.meta.dirname, "client"),
   publicDir: path.resolve(import.meta.dirname, "client", "public"),
 build: {
-    outDir: "../dist", // O "../" faz a pasta sair de 'client' e ir para a raiz
+    outDir: "../dist", // O "../" faz a pasta ser criada na raiz, fora de 'client'
     emptyOutDir: true,
   },
   server: {

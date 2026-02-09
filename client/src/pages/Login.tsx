@@ -75,7 +75,7 @@ export default function Login() {
               />
             </div>
             <h1 className="text-4xl font-bold text-gray-900 drop-shadow-md">Quadro de Avisos Médicos</h1>
-            <p className="text-gray-700 mt-2 font-medium drop-shadow-sm" style={{fontSize: '14px', fontWeight: '200'}}>Escala de Técnicos de Enfermagem</p>
+            <p className="text-gray-700 mt-2 font-medium drop-shadow-sm" style={{fontSize: '14px', fontWeight: '200'}}>Escala Médica</p>
           </div>
 
           {/* Main Content - UPA e HOB em lista vertical */}

@@ -85,7 +85,7 @@ export default function Login() {
               onClick={() => handleEnfermeiroLogin("UPA")}
               className="w-full bg-blue-600 hover:bg-blue-700 text-white h-14 text-lg font-semibold shadow-lg hover:shadow-xl transition-all"
             >
-              Enfermeiros UPA
+              Médicos UPA
             </Button>
 
             {/* HOB */}
@@ -93,7 +93,7 @@ export default function Login() {
               onClick={() => handleEnfermeiroLogin("HOB")}
               className="w-full bg-orange-500 hover:bg-orange-600 text-white h-14 text-lg font-semibold shadow-lg hover:shadow-xl transition-all"
             >
-              Enfermeiros HOB
+              Médicos HOB
             </Button>
           </div>
 
